@@ -4,7 +4,7 @@
 
 ## Como jogar - Execute o seguinte comando no terminal:
 
-git clone https://github.com/adrielldev/campo-minado-java.git ; cd campo-minado-java/src ; javac Main.java ; java Main &
+git clone git@github.com:adrielldev/campo-minado-java.git ; cd campo-minado-java/src ; javac Main.java ; java Main &
 
 
 
