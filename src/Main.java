@@ -3,9 +3,9 @@
 import javax.swing.JFrame;
 
 @SuppressWarnings("serial")
-public class TelaPrincipal extends JFrame {
+public class Main extends JFrame {
 	
-	public TelaPrincipal() {
+	public Main() {
 		
 		Tabuleiro tab = new Tabuleiro(25,25,50);
 		PainelTabuleiro painelTab = new PainelTabuleiro(tab);
@@ -20,7 +20,7 @@ public class TelaPrincipal extends JFrame {
 	}
 	
 	public static void main(String[] args) {
-		new TelaPrincipal();
+		new Main();
 	}
 	
 }
